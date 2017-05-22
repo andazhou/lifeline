@@ -1,3 +1,5 @@
 # lifeline
 
-Chengcheng, Anda, Abhishek
+desktop Python app interacting with icloud
+
+packages: pyicloud, pyqt
